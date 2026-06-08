@@ -17,9 +17,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Coughyyee&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+!["Scientists investigate that which already is;
+Engineers create that which has never been."
+— Albert Einstein](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Coughyyee&icon=0&color=0)](https://sivaram-r-10.github.io/Portfolio/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
